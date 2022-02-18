@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @timmy-pelumy
-- 👀 I’m interested in web, mobile and AI
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m @timmy-oss
+- 👀 I’m interested in web, blockchain and AI
+- 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 You can reach out to me here
 
