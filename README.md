@@ -15,9 +15,9 @@ I'm a full-stack web developer with 3 years of experience building web applicati
 Here are a few examples of some projects I've worked on:
 
 - **HydraTest** - A web app that faciliates online exams; choose a course, write the exam and get graded (https://hydratest.vercel.app).
-- **Blinkr** - Blinkr is a short link personalization tool; shorten lng urls, even with custom shortlinks (https://blinkr.azurewebsites.net).
+- **Blinkr** - Blinkr is a short link personalization tool; shorten long urls, even with custom shortlinks (https://blinkr.azurewebsites.net).
 - **SafeProtocol** - A token presale platform with advanced features (https://safeprotocol.co).
-- **Clockify** - A three in one clock app; a timer, a clock, and a stopwatch (https://clockify-sable.vercel.app)
+- **Clockify** - A three in one time keeping app; a timer, a clock, and a stopwatch (https://clockify-sable.vercel.app)
 
 ## Experience
 
