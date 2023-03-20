@@ -1,51 +1,51 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Timmy 👋
 
-I'm a full-stack web developer with [X years/months] of experience building web applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
+I'm a full-stack web developer with 3 years of experience building web applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 
 ## Skills
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** React, Angular, Vue, Express.js, Flask
-- **Databases:** MySQL, MongoDB, Firebase
-- **Tools:** Git, Webpack, npm, Docker
-- **Other:** RESTful APIs, AWS, Heroku, Firebase, Agile development
+- **Languages:** JavaScript, HTML, CSS, Python
+- **Frameworks:** React, Express.js, FastAPI, JSON-RPC
+- **Databases:** SQLite, MongoDB, Redis
+- **Tools:** Git, Webpack, pnpm, Docker, Vite
+- **Other:** RESTful APIs, JSON-RPC APIs, AZURE, AWS, Heroku, Agile development
 
 ## Projects
 
 Here are a few examples of some projects I've worked on:
 
-- **Project Name 1** - Brief description of project.
-- **Project Name 2** - Brief description of project.
-- **Project Name 3** - Brief description of project.
+- **HydraTest** - A web app that faciliates online exams - choose a course, write the exam and get graded (https://hydratest.vercel.app).
+- **Blinkr** - Blinkr is a short link personalization tool -  Shorten lng urls, even with custom shortlinks (https://blinkr.azurewebsites.net).
+- **SafeProtocol** - A token presale platform with advanced features (https://safeprotocol.co).
 
 ## Experience
 
-- **Company Name:** Job Title (Time Period)
-    - Description of responsibilities and achievements.
-- **Company Name:** Job Title (Time Period)
-    - Description of responsibilities and achievements.
+- **Beepo App:** Backend Developer (2021-2022)
+<!--     - Description of responsibilities and achievements. -->
+- **Virfars Limited:** Backend Developer (2023 till date)
+<!--     - Description of responsibilities and achievements. -->
 
 ## Education
 
-- **University Name:** Degree Name (Graduation Year)
-- **University Name:** Degree Name (Graduation Year)
+- **Federal University of Technology, Akure:** Computer Engineering (in view)
+<!-- - **University Name:** Degree Name (Graduation Year) -->
 
 ## Certifications
 
-- **Certification Name:** Issuing Organization (Completion Date)
+- **Jobberman Softskills:** Jobberman (2023)
 
 ## Social Links
 
-- [GitHub](https://github.com/YourUsername)
-- [LinkedIn](https://www.linkedin.com/in/YourUsername)
-- [Twitter](https://twitter.com/YourUsername)
+- [GitHub](https://github.com/timmypelumy)
+- [LinkedIn](https://www.linkedin.com/in/timmypelumy)
+- [Twitter](https://twitter.com/timmypelumy)
 
 ## Badges
 
 - [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
 - [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-- [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
-- [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+<!-- - [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/) -->
+<!-- - [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/) -->
 - [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 - [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 - [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
