@@ -7,7 +7,7 @@ I'm a full-stack web developer with 3 years of experience building web applicati
 - **Languages:** JavaScript, HTML, CSS, Python, Typescript
 - **Frameworks:** React, Express.js, FastAPI, TailwindCSS, Next.js
 - **Databases:** SQLite, MongoDB, Redis
-- **Tools:** Git, Webpack, pnpm, Docker, Vite
+- **Tools:** Git, Webpack, npm, yarn, pnpm, Docker, Vite
 - **Other:** RESTful APIs, JSON-RPC APIs, AZURE, AWS, Heroku, Agile development
 
 ## Projects
