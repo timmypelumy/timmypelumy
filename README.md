@@ -4,8 +4,8 @@ I'm a full-stack web developer with 3 years of experience building web applicati
 
 ## Skills
 
-- **Languages:** JavaScript, HTML, CSS, Python
-- **Frameworks:** React, Express.js, FastAPI, JSON-RPC
+- **Languages:** JavaScript, HTML, CSS, Python, Typescript
+- **Frameworks:** React, Express.js, FastAPI, TailwindCSS, Next.js
 - **Databases:** SQLite, MongoDB, Redis
 - **Tools:** Git, Webpack, pnpm, Docker, Vite
 - **Other:** RESTful APIs, JSON-RPC APIs, AZURE, AWS, Heroku, Agile development
@@ -14,15 +14,16 @@ I'm a full-stack web developer with 3 years of experience building web applicati
 
 Here are a few examples of some projects I've worked on:
 
-- **HydraTest** - A web app that faciliates online exams - choose a course, write the exam and get graded (https://hydratest.vercel.app).
-- **Blinkr** - Blinkr is a short link personalization tool -  Shorten lng urls, even with custom shortlinks (https://blinkr.azurewebsites.net).
+- **HydraTest** - A web app that faciliates online exams; choose a course, write the exam and get graded (https://hydratest.vercel.app).
+- **Blinkr** - Blinkr is a short link personalization tool; shorten lng urls, even with custom shortlinks (https://blinkr.azurewebsites.net).
 - **SafeProtocol** - A token presale platform with advanced features (https://safeprotocol.co).
+- **Clockify** - A three in one clock app; a timer, a clock, and a stopwatch (https://clockify-sable.vercel.app)
 
 ## Experience
 
-- **Beepo App:** Backend Developer (2021-2022)
+- **Beepo App:** Backend Engineer (2021-2022)
 <!--     - Description of responsibilities and achievements. -->
-- **Virfars Limited:** Backend Developer (2023 till date)
+- **Virfars Limited:** Backend Engineer (2023 till date)
 <!--     - Description of responsibilities and achievements. -->
 
 ## Education
