@@ -1,4 +1,4 @@
-# Timmy Pelumi – Web Engineer & Blockchain Enthusiast 🚀
+# Timileyin Pelumi – Web Engineer & Blockchain Enthusiast 🚀
 
 Hey there! I’m **Timmy**, a passionate Web Engineer with a knack for solving complex problems through elegant code. I specialize in **building digital solutions** that combine cutting-edge tech with a user-focused approach, from **scalable web apps** to **blockchain integrations**.
 
